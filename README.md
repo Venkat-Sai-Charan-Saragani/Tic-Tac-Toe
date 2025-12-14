@@ -51,3 +51,8 @@ Enter position 0-8 for empty spots
 3 in a row/column/diagonal wins
 
 Numbers show available positions
+
+
+##SCREENSHORT OF THE GAME
+<img width="710" height="412" alt="image" src="https://github.com/user-attachments/assets/f6f5c52f-3e45-44e9-88c3-da9eb271b222" />
+
