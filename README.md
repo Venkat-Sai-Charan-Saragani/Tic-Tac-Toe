@@ -31,7 +31,8 @@ Example board:
 
 X's chance
 enter the number: 
-🧠 Tech Highlights
+
+🧠 TECH HIGHLIGHTS
 python
 # Nested ternary for clean board display
 zero = 'X' if xstate[0] else 'O' if zstate[0] else '0'
@@ -41,7 +42,8 @@ Pure Python - no dependencies
 
 Efficient state checking (X first, then O, then empty)
 
-📝 Game Rules
+📝 GAME RULES
+
 X starts first
 
 Enter position 0-8 for empty spots
