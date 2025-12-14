@@ -15,7 +15,7 @@ Position validation (empty spots only)
 Clean board printing with nested ternary logic
 
 🚀 How to Run
-Clone repo: git clone https://github.com/yourusername/tic-tac-toe.git
+Clone repo: git clone https://github.com/Venkat-Sai-Charan-Saragani/tic-tac-toe.git
 
 Navigate: cd tic-tac-toe
 
